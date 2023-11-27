@@ -1,0 +1,54 @@
+body {
+    font-family: 'Marhey', sans-serif !important;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+#mother {}
+
+form {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 100vh;
+}
+
+form aside {
+    border-left: 1px solid #7c7c7c;
+    box-shadow: -7px 0px 2px 2px #00000021;
+}
+
+
+aside .logo img{
+    margin-top: 35px;
+    margin-bottom: 10px;
+    max-width: 90px;
+}
+
+aside.mainh2 {}
+
+aside.mainp {}
+
+aside .inputs {}
+
+aside .inputs input {
+    border-radius: 6px;
+    margin-bottom: 17px;
+    padding: 6px 8px;
+}
+
+aside .inputs .btns {}
+
+aside .inputs .btns .add {}
+
+aside .inputs .btns .del {}
+
+
+form main {}
+
+form main table {}
+
+form main tr {}
+
+
+form main th {}
